@@ -12,6 +12,7 @@ To lazy to make a after school work schedule well here is your solution
 <br>
 5. Answer the questions. When answering questions that you whould normaly use numbers to answer DO NOT ADD ANY LETTERS or it will break this applys to the following questions:
 <br>
+<br>
   1. About how long do want your work periods to be?
 <br>
   2. How many classes do you have homework for?
