@@ -81,4 +81,4 @@ if len(y)>len(a):
             else:
                 print(Y[k])
             k = k+1
-input("Press [Enter] to exit.")
+input("Press Enter to exit.")
