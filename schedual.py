@@ -1,10 +1,8 @@
-QA = input('About how long do you want your work peiriods to be?')
-QA = int(QA)
+QA = int(input('About how long do you want your work peiriods to be?'))
 
 A = []
 a = []
-c = input('How many classes homework do have to do?')
-c = int(c)
+c = int(input('How many classes homework do have to do?'))
 for i in range(c):
     B = input('What homework do you have?')
     A.append(B)
@@ -13,8 +11,7 @@ for i in range(c):
 
 Y = []
 y = []
-x = input('How many subjects do you need to study for?')
-x = int(x)
+x = int(input('How many subjects do you need to study for?'))
 for i in range(x):
     Z = input('Which subject are you studying?')
     Y.append(Z)
@@ -84,3 +81,4 @@ if len(y)>len(a):
             else:
                 print(Y[k])
             k = k+1
+input("Press [Enter] to exit.")
